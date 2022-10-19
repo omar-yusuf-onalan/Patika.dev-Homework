@@ -1,4 +1,4 @@
-Question 1
+-- Question 1
 (
 SELECT first_name
 FROM actor
@@ -10,7 +10,7 @@ FROM customer
 )
 ORDER BY first_name;
 
-Question 2
+-- Question 2
 (
 SELECT first_name
 FROM actor
