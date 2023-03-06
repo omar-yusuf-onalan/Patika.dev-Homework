@@ -1,0 +1,22 @@
+{
+    "name": "graphql-homework-2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.21",
+        "prettier": "2.8.4"
+    },
+    "dependencies": {
+        "@apollo/server": "^4.4.1",
+        "graphql": "^16.6.0",
+        "uuidv4": "^6.2.13"
+    }
+}
